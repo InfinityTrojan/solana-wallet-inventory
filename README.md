@@ -78,7 +78,7 @@ Wallet data is currently hardcoded in `app/page.tsx` (for the dashboard overview
 5.  **Other Details**:
     *   Fields like `popularity`, `securityScore`, `userRating`, `totalUsers`, `website`, `github`, `twitter`, `founded`, `headquarters`, `team`, `funding`, `lastUpdated`, `securityFeatures`, `screenshots`, `videos`, `pros`, `cons`, and `testingNotes` can all be updated directly within the `walletDetails` object.
 ## Recording (Loom Walkthrough and Wallets Testing)
-**[Loom Walkthrough](https://youtube.com)**
+**[Loom Walkthrough](https://www.loom.com/share/d316995dff964071abd0a536068365a6?sid=6432c123-249f-4ef5-9e8a-fda3aa392d06)**
 
    *     Test QR https://noobqr.vercel.app
 
