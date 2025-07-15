@@ -46,7 +46,7 @@ const walletDetails = {
   1: {
     id: 1,
     name: "Phantom",
-    logo: "/public/logos/phantom.png",
+    logo: "/logos/phantom.png",
     logoColor: "transparent",
     description: "Multiple chains, one wallet. No more switching",
     longDescription:
