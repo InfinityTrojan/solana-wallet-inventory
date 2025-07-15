@@ -80,9 +80,9 @@ Wallet data is currently hardcoded in `app/page.tsx` (for the dashboard overview
 ## Recording (Loom Walkthrough and Wallets Testing)
 **[Loom Walkthrough](https://youtube.com)**
 
-    *Test QR https://noobqr.vercel.app
+   *     Test QR https://noobqr.vercel.app
 
-    *Wallets Testing Recording [Here](https://youtube.com)
+   *     Wallets Testing Recording https://youtube.com
 
 ## Footer Attribution
 
