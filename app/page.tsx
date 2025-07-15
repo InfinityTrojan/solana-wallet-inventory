@@ -1496,7 +1496,7 @@ export default function SolanaWalletDashboard() {
             <span className="text-sm font-medium text-foreground/80">Solana Ecosystem</span>
           </div>
           <h1 className="text-5xl lg:text-6xl font-bold bg-gradient-to-r from-purple-600 via-blue-600 to-emerald-600 bg-clip-text text-transparent">
-            Wallet Compatibility Catalog
+            Solana Pay-QR Compatibility
           </h1>
           <p className="text-xl text-foreground/70 max-w-3xl mx-auto leading-relaxed">
             Discover, compare, and analyze Solana wallets with comprehensive feature breakdowns, security assessments,
