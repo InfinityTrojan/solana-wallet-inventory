@@ -46,7 +46,7 @@ const walletDetails = {
   1: {
     id: 1,
     name: "Phantom",
-    logo: "public/logos/phantom.png",
+    logo: "/logos/phantom.png",
     logoColor: "transparent",
     description: "Multiple chains, one wallet. No more switching",
     longDescription:
@@ -149,7 +149,7 @@ const walletDetails = {
   2: {
     id: 2,
     name: "Solflare",
-    logo: "/public/logos/solflare.png",
+    logo: "/logos/solflare.png",
     logoColor: "transparent",
     description:
       "A secure and powerful Solana Wallet. Buy, store, swap tokens & NFTs and access Solana DeFi from web or mobile",
