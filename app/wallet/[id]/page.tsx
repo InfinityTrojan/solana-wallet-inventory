@@ -228,7 +228,7 @@ const walletDetails = {
   3: {
     id: 3,
     name: "Backpack",
-    logo: "/public/logos/backpack.png",
+    logo: "/logos/backpack.png",
     logoColor: "transparent",
     description:
       "Backpack offers a robust, user-friendly platform for seamlessly trading, managing, and securing your cryptocurrency assets",
@@ -301,7 +301,7 @@ const walletDetails = {
   4: {
     id: 4,
     name: "Glow",
-    logo: "/public/logos/glow.png",
+    logo: "/logos/glow.png",
     logoColor: "transparent",
     description:
       "Glow Wallet Extension is a user-friendly digital wallet designed to facilitate seamless cryptocurrency transactions",
@@ -374,7 +374,7 @@ const walletDetails = {
   5: {
     id: 5,
     name: "Exodus",
-    logo: "/public/logos/exodus.png",
+    logo: "/logos/exodus.png",
     logoColor: "transparent",
     description: "50+ networks supported. Swap between 1000s of assets",
     longDescription:
@@ -447,7 +447,7 @@ const walletDetails = {
   6: {
     id: 6,
     name: "Trust Wallet",
-    logo: "/public/logos/trust-wallet.png",
+    logo: "/logos/trust-wallet.png",
     logoColor: "transparent",
     description:
       "Trust Wallet is a multi-chain self-custody crypto wallet and secure gateway to thousands of Web3 decentralized applications (dApps)",
@@ -526,7 +526,7 @@ const walletDetails = {
   7: {
     id: 7,
     name: "Coinbase Wallet",
-    logo: "/public/logos/coinbase-wallet.png",
+    logo: "/logos/coinbase-wallet.png",
     logoColor: "transparent",
     description: "Your key to the world of crypto",
     longDescription:
@@ -603,7 +603,7 @@ const walletDetails = {
   8: {
     id: 8,
     name: "TokenPocket",
-    logo: "/public/logos/tokenpocket.png",
+    logo: "/logos/tokenpocket.png",
     logoColor: "transparent",
     description:
       "TokenPocket is a multi-chain self-custodial wallet with over 30 million users worldwide, offering a product lineup that includes a Mobile Wallet, Chrome Extension Wallet, and KeyPal Hardware Wallet",
@@ -676,7 +676,7 @@ const walletDetails = {
   9: {
     id: 9,
     name: "Ledger",
-    logo: "/public/logos/ledger.png",
+    logo: "/logos/ledger.png",
     logoColor: "transparent",
     description: "Physically secure your transactions with Ledger wallets. Thousands of supported coins and tokens",
     longDescription:
@@ -753,7 +753,7 @@ const walletDetails = {
   10: {
     id: 10,
     name: "Trezor",
-    logo: "/public/logos/trezor.png",
+    logo: "/logos/trezor.png",
     logoColor: "transparent",
     description: "The ultimate hardware wallet offering highest level of security and seamless usability",
     longDescription:
@@ -830,7 +830,7 @@ const walletDetails = {
   11: {
     id: 11,
     name: "OKX",
-    logo: "/public/logos/okx.png",
+    logo: "/logos/okx.png",
     logoColor: "transparent",
     description: "Your portal to Web3. Access 100+ decentralized networks with many more on the way",
     longDescription:
@@ -906,7 +906,7 @@ const walletDetails = {
   12: {
     id: 12,
     name: "Bitget",
-    logo: "/public/logos/bitget.png",
+    logo: "/logos/bitget.png",
     logoColor: "transparent",
     description: "Faster Trading, Better Assets. Bitget Wallet — Your Web3 Trading Wallet of the Future",
     longDescription:
@@ -982,7 +982,7 @@ const walletDetails = {
   13: {
     id: 13,
     name: "Brave Wallet",
-    logo: "/public/logos/brave-wallet.png",
+    logo: "/logos/brave-wallet.png",
     logoColor: "transparent",
     description:
       "Brave Wallet is a secure crypto wallet, built right into the Brave privacy browser. No extension required",
@@ -1060,7 +1060,7 @@ const walletDetails = {
   14: {
     id: 14,
     name: "Enkrypt",
-    logo: "/public/logos/enkrypt.png",
+    logo: "/logos/enkrypt.png",
     logoColor: "transparent",
     description:
       "A multichain crypto wallet hold, buy, send, receive, and swap tokens. Manage your NFTs. Access web3 apps across multiple blockchains",
@@ -1138,7 +1138,7 @@ const walletDetails = {
   15: {
     id: 15,
     name: "Gem Wallet",
-    logo: "/public/logos/gem-wallet.png",
+    logo: "/logos/gem-wallet.png",
     logoColor: "transparent",
     description:
       "Gem Wallet is an open-source and self-custodial crypto wallet that lets you send, receive, swap, use dApps, buy, and stake cryptocurrencies",
@@ -1216,7 +1216,7 @@ const walletDetails = {
   16: {
     id: 16,
     name: "Robinhood Wallet",
-    logo: "/public/logos/robinhood-wallet.png",
+    logo: "/logos/robinhood-wallet.png",
     logoColor: "transparent",
     description:
       "The Robinhood Wallet app is a self-custody wallet that's your portal to web3 where you can store and manage your crypto. Robinhood Wallet gives you full control over your crypto, which means you hold the private keys to your assets",
@@ -1294,7 +1294,7 @@ const walletDetails = {
   17: {
     id: 17,
     name: "Binance Web3 Wallet",
-    logo: "/public/logos/binance-web3-wallet.png",
+    logo: "/logos/binance-web3-wallet.png",
     logoColor: "transparent",
     description: "Binance Web3 wallet is a keyless, seedless, multi-chain, semi-custody wallet designed for DeFi",
     longDescription:
@@ -1370,7 +1370,7 @@ const walletDetails = {
   18: {
     id: 18,
     name: "Fuse Wallet",
-    logo: "/public/logos/fuse-wallet.png",
+    logo: "/logos/fuse-wallet.png",
     logoColor: "transparent",
     description: "A safe wallet for your Solana assets. 2FA. Recovery. No seed phrase",
     longDescription:
@@ -1447,7 +1447,7 @@ const walletDetails = {
   19: {
     id: 19,
     name: "Tiplink",
-    logo: "/public/logos/tiplink.png",
+    logo: "/logos/tiplink.png",
     logoColor: "transparent",
     description: "The crypto of tomorrow, today. Create a frictionless wallet with just a Google Account",
     longDescription:
@@ -1524,7 +1524,7 @@ const walletDetails = {
   20: {
     id: 20,
     name: "NOW Wallet",
-    logo: "/public/logos/now-wallet.png",
+    logo: "/logos/now-wallet.png",
     logoColor: "transparent",
     description: "Built for ease, powered by security. Swap and store crypto across 70+ networks",
     longDescription:
@@ -1596,7 +1596,7 @@ const walletDetails = {
   21: {
     id: 21,
     name: "Guarda Wallet",
-    logo: "/public/logos/guarda-wallet.png",
+    logo: "/logos/guarda-wallet.png",
     logoColor: "transparent",
     description: "One secure multi crypto wallet, all assets in. Swap and store crypto across 70+ networks",
     longDescription:
@@ -1668,7 +1668,7 @@ const walletDetails = {
   22: {
     id: 22,
     name: "Cake Wallet",
-    logo: "/public/logos/cake-wallet.png",
+    logo: "/logos/cake-wallet.png",
     logoColor: "transparent",
     description: "Your keys, your coins. Securely store, send and exchange your crypto with ease",
     longDescription:
@@ -1740,7 +1740,7 @@ const walletDetails = {
   23: {
     id: 23,
     name: "Helium Wallet",
-    logo: "/public/logos/helium-wallet.png",
+    logo: "/logos/helium-wallet.png",
     logoColor: "transparent",
     description: "The Helium Wallet app is the trusted way to manage your Helium account",
     longDescription:
@@ -1817,7 +1817,7 @@ const walletDetails = {
   24: {
     id: 24,
     name: "Keystone",
-    logo: "/public/logos/keystone.png",
+    logo: "/logos/keystone.png",
     logoColor: "transparent",
     description:
       "Keystone offers seamless compatibility with leading wallets, ensuring top-tier security for a wide range of cryptocurrencies",
@@ -1907,7 +1907,7 @@ const walletDetails = {
   25: {
     id: 25,
     name: "Jupiter Wallet",
-    logo: "/public/logos/jupiter-wallet.png",
+    logo: "/logos/jupiter-wallet.png",
     logoColor: "transparent",
     description: "The best swap aggregator on Solana with integrated wallet features",
     longDescription:
@@ -1985,7 +1985,7 @@ const walletDetails = {
   26: {
     id: 26,
     name: "Decaf",
-    logo: "/public/logos/decaf.png",
+    logo: "/logos/decaf.png",
     logoColor: "transparent",
     description: "A Global Bank, Onchain. Instantly transfer money between 184+ countries",
     longDescription:
@@ -2062,7 +2062,7 @@ const walletDetails = {
   27: {
     id: 27,
     name: "SafePal",
-    logo: "/public/logos/safepal.png",
+    logo: "/logos/safepal.png",
     logoColor: "transparent",
     description: "Hardware and software wallet with comprehensive security features",
     longDescription:
@@ -2138,7 +2138,7 @@ const walletDetails = {
   28: {
     id: 28,
     name: "Slope",
-    logo: "/public/logos/slope.png",
+    logo: "/logos/slope.png",
     logoColor: "transparent",
     description: "Mobile-first wallet focused on Solana DeFi and NFTs",
     longDescription:
@@ -2215,7 +2215,7 @@ const walletDetails = {
   29: {
     id: 29,
     name: "Atomic Wallet",
-    logo: "/public/logos/atomic-wallet.png",
+    logo: "/logos/atomic-wallet.png",
     logoColor: "transparent",
     description: "Decentralized wallet with atomic swaps and staking",
     longDescription:
@@ -2287,7 +2287,7 @@ const walletDetails = {
   30: {
     id: 30,
     name: "Coin98",
-    logo: "/public/logos/coin98.png",
+    logo: "/logos/coin98.png",
     logoColor: "transparent",
     description: "Multi-chain DeFi wallet and gateway",
     longDescription:
@@ -2359,7 +2359,7 @@ const walletDetails = {
   31: {
     id: 31,
     name: "Math Wallet",
-    logo: "/public/logos/math-wallet.png",
+    logo: "/logos/math-wallet.png",
     logoColor: "transparent",
     description: "Multi-platform crypto wallet with Web3 DApp store",
     longDescription:
@@ -2431,7 +2431,7 @@ const walletDetails = {
   32: {
     id: 32,
     name: "Clover",
-    logo: "/public/logos/clover.png",
+    logo: "/logos/clover.png",
     logoColor: "transparent",
     description: "Cross-chain wallet with identity-based features",
     longDescription:
@@ -2614,184 +2614,184 @@ export default function WalletDetailPage() {
     const fallbackWallet = {
       3: {
         name: "Backpack",
-        logo: "/public/logos/backpack.png",
+        logo: "/logos/backpack.png",
         logoColor: "transparent",
         description:
           "A robust, user-friendly platform for seamlessly trading, managing, and securing your cryptocurrency assets",
       },
       4: {
         name: "Glow",
-        logo: "/public/logos/glow.png",
+        logo: "/logos/glow.png",
         logoColor: "transparent",
         description:
           "Glow Wallet Extension is a user-friendly digital wallet designed to facilitate seamless cryptocurrency transactions",
       },
       5: {
         name: "Exodus",
-        logo: "/public/logos/exodus.png",
+        logo: "/logos/exodus.png",
         logoColor: "transparent",
         description: "50+ networks supported. Swap between 1000s of assets",
       },
       6: {
         name: "Trust Wallet",
-        logo: "/public/logos/trust-wallet.png",
+        logo: "/logos/trust-wallet.png",
         logoColor: "transparent",
         description:
           "Trust Wallet is a multi-chain self-custody crypto wallet and secure gateway to thousands of Web3 decentralized applications (dApps)",
       },
       7: {
         name: "Coinbase Wallet",
-        logo: "/public/logos/coinbase-wallet.png",
+        logo: "/logos/coinbase-wallet.png",
         logoColor: "transparent",
         description: "Your key to the world of crypto",
       },
       8: {
         name: "TokenPocket",
-        logo: "/public/logos/tokenpocket.png",
+        logo: "/logos/tokenpocket.png",
         logoColor: "transparent",
         description: "TokenPocket is a multi-chain self-custodial wallet with over 30 million users worldwide",
       },
       9: {
         name: "Ledger",
-        logo: "/public/logos/ledger.png",
+        logo: "/logos/ledger.png",
         logoColor: "transparent",
         description: "Physically secure your transactions with Ledger wallets.",
       },
       10: {
         name: "Trezor",
-        logo: "/public/logos/trezor.png",
+        logo: "/logos/trezor.png",
         logoColor: "transparent",
         description: "The ultimate hardware wallet offering highest level of security",
       },
       11: {
         name: "OKX",
-        logo: "/public/logos/okx.png",
+        logo: "/logos/okx.png",
         logoColor: "transparent",
         description: "Your portal to Web3. Access 100+ decentralized networks",
       },
       12: {
         name: "Bitget",
-        logo: "/public/logos/bitget.png",
+        logo: "/logos/bitget.png",
         logoColor: "transparent",
         description: "Faster Trading, Better Assets. Bitget Wallet — Your Web3 Trading Wallet of the Future",
       },
       13: {
         name: "Brave Wallet",
-        logo: "/public/logos/brave-wallet.png",
+        logo: "/logos/brave-wallet.png",
         logoColor: "transparent",
         description: "Brave Wallet is a secure crypto wallet, built right into the Brave privacy browser.",
       },
       14: {
         name: "Enkrypt",
-        logo: "/public/logos/enkrypt.png",
+        logo: "/logos/enkrypt.png",
         logoColor: "transparent",
         description: "A multichain crypto wallet hold, buy, send, receive, and swap tokens.",
       },
       15: {
         name: "Gem Wallet",
-        logo: "/public/logos/gem-wallet.png",
+        logo: "/logos/gem-wallet.png",
         logoColor: "transparent",
         description: "Gem Wallet is an open-source and self-custodial crypto wallet",
       },
       16: {
         name: "Robinhood Wallet",
-        logo: "/public/logos/robinhood-wallet.png",
+        logo: "/logos/robinhood-wallet.png",
         logoColor: "transparent",
         description: "The Robinhood Wallet app is a self-custody wallet that's your portal to web3",
       },
       17: {
         name: "Binance Web3 Wallet",
-        logo: "/public/logos/binance-web3-wallet.png",
+        logo: "/logos/binance-web3-wallet.png",
         logoColor: "transparent",
         description: "Binance Web3 wallet is a keyless, seedless, multi-chain, semi-custody wallet",
       },
       18: {
         name: "Fuse Wallet",
-        logo: "/public/logos/fuse-wallet.png",
+        logo: "/logos/fuse-wallet.png",
         logoColor: "transparent",
         description: "A safe wallet for your Solana assets. 2FA. Recovery. No seed phrase",
       },
       19: {
         name: "Tiplink",
-        logo: "/public/logos/tiplink.png",
+        logo: "/logos/tiplink.png",
         logoColor: "transparent",
         description: "The crypto of tomorrow, today. Create a frictionless wallet with just a Google Account",
       },
       20: {
         name: "NOW Wallet",
-        logo: "/public/logos/now-wallet.png",
+        logo: "/logos/now-wallet.png",
         logoColor: "transparent",
         description: "Built for ease, powered by security. Swap and store crypto across 70+ networks",
       },
       21: {
         name: "Guarda Wallet",
-        logo: "/public/logos/guarda-wallet.png",
+        logo: "/logos/guarda-wallet.png",
         logoColor: "transparent",
         description: "One secure multi crypto wallet, all assets in.",
       },
       22: {
         name: "Cake Wallet",
-        logo: "/public/logos/cake-wallet.png",
+        logo: "/logos/cake-wallet.png",
         logoColor: "transparent",
         description: "Your keys, your coins. Securely store, send and exchange your crypto with ease",
       },
       23: {
         name: "Helium Wallet",
-        logo: "/public/logos/helium-wallet.png",
+        logo: "/logos/helium-wallet.png",
         logoColor: "transparent",
         description: "The Helium Wallet app is the trusted way to manage your Helium account",
       },
       24: {
         name: "Keystone",
-        logo: "/public/logos/keystone.png",
+        logo: "/logos/keystone.png",
         logoColor: "transparent",
         description: "Keystone offers seamless compatibility with leading wallets, ensuring top-tier security",
       },
       25: {
         name: "Jupiter Wallet",
-        logo: "/public/logos/jupiter-wallet.png",
+        logo: "/logos/jupiter-wallet.png",
         logoColor: "transparent",
         description: "The best swap aggregator on Solana with integrated wallet features",
       },
       26: {
         name: "Decaf",
-        logo: "/public/logos/decaf.png",
+        logo: "/logos/decaf.png",
         logoColor: "transparent",
         description: "A Global Bank, Onchain. Instantly transfer money between 184+ countries",
       },
       27: {
         name: "SafePal",
-        logo: "/public/logos/safepal.png",
+        logo: "/logos/safepal.png",
         logoColor: "transparent",
         description: "Hardware and software wallet with comprehensive security features",
       },
       28: {
         name: "Slope",
-        logo: "/public/logos/slope.png",
+        logo: "/logos/slope.png",
         logoColor: "transparent",
         description: "Mobile-first wallet focused on Solana DeFi and NFTs",
       },
       29: {
         name: "Atomic Wallet",
-        logo: "/public/logos/atomic-wallet.png",
+        logo: "/logos/atomic-wallet.png",
         logoColor: "transparent",
         description: "Decentralized wallet with atomic swaps and staking",
       },
       30: {
         name: "Coin98",
-        logo: "/public/logos/coin98.png",
+        logo: "/logos/coin98.png",
         logoColor: "transparent",
         description: "Multi-chain DeFi wallet and gateway",
       },
       31: {
         name: "Math Wallet",
-        logo: "/public/logos/math-wallet.png",
+        logo: "/logos/math-wallet.png",
         logoColor: "transparent",
         description: "Multi-platform crypto wallet with Web3 DApp store",
       },
       32: {
         name: "Clover",
-        logo: "/public/logos/clover.png",
+        logo: "/logos/clover.png",
         logoColor: "transparent",
         description: "Cross-chain wallet with identity-based features",
       },
