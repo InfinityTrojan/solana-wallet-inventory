@@ -82,7 +82,7 @@ Wallet data is currently hardcoded in `app/page.tsx` (for the dashboard overview
 
    *     Test QR https://noobqr.vercel.app
 
-   *     Wallets Testing Recording https://youtube.com
+   *     Wallets Testing Recording https://drive.google.com/drive/folders/1J-9KysXbPIfC15myW0X0m1iBCtCaAfuq
 
 ## Footer Attribution
 
