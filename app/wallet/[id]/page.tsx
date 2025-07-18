@@ -1758,9 +1758,9 @@ const walletDetails = {
     headquarters: "San Francisco, CA",
     team: "50+ employees",
     funding: "$250M+ Series D",
-    lastUpdated: "2023-12-30",
-    versionTested: "2.8.0",
-    dateTested: "2024-01-02",
+    lastUpdated: "2025-07-14",
+    versionTested: "5.1.2",
+    dateTested: "2025-07-16",
     features: {
       dexSwap: { supported: false, rating: 0, notes: "No direct DEX swap" },
       nftGallery: { supported: false, rating: 0, notes: "No dedicated NFT gallery" },
