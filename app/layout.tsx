@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Solana Wallet Dashboard",
   description: "Discover and compare Solana wallets",
-  generator: "v0.dev",
+  generator: "1noob.dev",
 }
 
 export default function RootLayout({
