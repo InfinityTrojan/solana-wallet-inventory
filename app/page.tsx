@@ -606,10 +606,10 @@ const mockWallets = [
     },
     securityFeatures: ["Open Source"],
     versionTested: "1.39.0",
-    dateTested: "2024-01-08",
+    dateTested: "2025-07-17",
     userRating: 3.9,
     totalUsers: "100K+",
-    lastUpdated: "2024-01-06",
+    lastUpdated: "2025-07-17",
     tags: ["multichain", "browser-extension", "nft", "web3"],
   },
   {
